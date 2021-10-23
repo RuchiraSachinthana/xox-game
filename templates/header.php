@@ -11,5 +11,6 @@ require_once "functions.php";
     <link rel='stylesheet' href='style.css' type='text/css'/>
 </head>
 <body>
+  
 
     <div class="wrapper">
